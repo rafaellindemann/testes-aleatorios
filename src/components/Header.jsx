@@ -154,7 +154,7 @@ function Header() {
               }}
             >
               <IconButton
-                color="primary"
+                color="secondary"
                 aria-label="menu"
                 onClick={handleMenuClick}
               >
@@ -182,7 +182,10 @@ function Header() {
           ) : (
             <ButtonGroup
               disableElevation
-              variant="contained"
+              // size="small"
+              variant="text"
+              // variant="contained"
+              // variant="outlined"
               color="primary"
               sx={{
                 flexWrap: "wrap",
