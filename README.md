@@ -1,11 +1,19 @@
 
 
 - acrescentar botões pra limpar filtros
-- navbar fixa
+- navbar fixa (ou não?)
 - filtro por tag
 - acrescentar o modal de história
 - acrescentar o modal de como usar
 - acrescentar card 'ad' de contribuição no repo
+
+
+
+backgrounds svg em:
+https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+
+https://www.vecteezy.com/vector-art/6894757-village-house-in-the-forest-cottage-among-trees-and-mountains-cartoon-vector-illustration
+
 
 
 
