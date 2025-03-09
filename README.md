@@ -1,4 +1,11 @@
 
+*** Implementei a política de filtros com tag e categoria, mas não me agradou.
+- botão "ver tag em todas categorias" tá limpando tudo;
+- as tags nos registros precisam ser refatoradas urgente;
+
+
+
+
 
 - acrescentar botões pra limpar filtros
 - navbar fixa (ou não?)
@@ -15,7 +22,10 @@ https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
 https://www.vecteezy.com/vector-art/6894757-village-house-in-the-forest-cottage-among-trees-and-mountains-cartoon-vector-illustration
 
 
-
+Fontes para verificar: ***
+Jost
+Plus JAkarta Sans
+Geist
 
 
 Sobre libs de componentes prontos x masonry: 
