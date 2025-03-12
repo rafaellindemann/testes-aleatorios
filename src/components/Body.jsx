@@ -6,7 +6,7 @@ import Card from './Card';
 import { motion, AnimatePresence } from 'framer-motion';
 
 // Componente Card envolvido com motion
-const MotionCard = motion(({ resource, ...rest }) => (
+const MotionCard = motion.create(({ resource, ...rest }) => (
   <div {...rest}>
     <Card r={resource} />
   </div>
@@ -29,6 +29,14 @@ function Body() {
 
   // Gerenciar redimensionamento
   useEffect(() => {
+    // console.log("===================================");
+    console.log("***********************************");
+    console.log("Que bom te ver por aqui!!!");
+    console.log("Agora aproveita e visita o repositório: https://github.com/rafaellindemann/jamanjo")
+    console.log("Deixa uma estrelinha bonitinha lá pro tio :D");
+    console.log("***********************************");
+    // console.log("===================================");
+
     const handleResize = () => {
       setColumns(getColumnCount());
     };
