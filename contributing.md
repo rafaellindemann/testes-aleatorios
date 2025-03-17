@@ -1,22 +1,20 @@
-*** Ainda cru, do deepseek:
 
-ue legal que você quer convidar pessoas para contribuir no seu repositório! Para facilitar o processo, é importante criar um guia simples e claro sobre como contribuir. Aqui está um passo a passo básico que você pode incluir no seu repositório (por exemplo, em um arquivo `CONTRIBUTING.md`):
 
 ---
 
 ### **Como Contribuir no Repositório**
 
-Oi! Obrigado por querer contribuir com este projeto. Aqui está um guia rápido para ajudar você a começar:
+Obrigado por querer contribuir com este projeto. Aqui está um guia rápido para ajudar você a começar sem se perder:
 
 #### 1. **Faça um Fork do Repositório**
    - Clique no botão **Fork** no canto superior direito desta página. Isso criará uma cópia do repositório na sua conta do GitHub.
 
 #### 2. **Clone o Repositório**
-   - Agora, clone o repositório forkado para o seu computador:
+   - Agora, clone o repositório forkado para o seu computador (não esqueça de alterar SEU_USUARIO ou pegar este endereço diretamente do seu repo forkado):
      ```bash
-     git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+     git clone https://github.com/SEU_USUARIO/jamanjo.git
      ```
-   - Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub e `nome-do-repositorio` pelo nome do repositório.
+   - Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub.
 
 #### 3. **Crie uma Branch**
    - Crie uma nova branch para fazer suas alterações:
@@ -27,7 +25,7 @@ Oi! Obrigado por querer contribuir com este projeto. Aqui está um guia rápido 
 
 #### 4. **Faça as Alterações**
    - Implemente a funcionalidade ou adicione o conteúdo desejado. Por exemplo:
-     - Se for adicionar um novo recurso ao array, edite o arquivo correspondente (como `recursos.js`).
+     - Se for adicionar um novo recurso ao array, edite o arquivo correspondente (como `GlobalContext.jsx`).
      - Se for corrigir um erro ou melhorar algo, faça as alterações necessárias.
 
 #### 5. **Commit e Push**
@@ -55,11 +53,7 @@ Oi! Obrigado por querer contribuir com este projeto. Aqui está um guia rápido 
 - **Adicionar um novo recurso ao array**:
   - Se você quiser adicionar um novo item ao array de recursos, siga o formato existente no arquivo. Por exemplo:
     ```javascript
-    {
-      nome: "Nome do Recurso",
-      descricao: "Descrição breve do recurso",
-      link: "https://link-para-o-recurso.com"
-    }
+      { id: 2, nome: 'Curso em Vídeo, HTML5 e CSS3, Módulo 2/5', tipo: 'normal', categoria: 'Curso', descricao: 'O segundo módulo do melhor curso de front para iniciantes, pelo melhor professor do mundo.', link: 'https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&ab_channel=CursoemV%C3%ADdeo', tags: ['HTML', 'CSS', 'Curso', 'Youtube', 'Guanabara', 'CursoEmVídeo', 'SentaEAssiste'] }
     ```
 - **Corrigir erros ou melhorar o código**:
   - Se encontrar um erro ou tiver uma ideia para melhorar o código, sinta-se à vontade para fazer as alterações.
@@ -70,9 +64,8 @@ Oi! Obrigado por querer contribuir com este projeto. Aqui está um guia rápido 
 ---
 
 ### **Exemplo de Fluxo Completo**
-1. Fork → Clone → Branch → Edite o arquivo `recursos.js` → Commit → Push → Pull Request.
+1. Fork → Clone → Branch → Edite o arquivo `GlobalContext.jsx` → Commit → Push → Pull Request.
 2. Aguarde a revisão e comemore sua contribuição! 🎉
 
 ---
 
-Esse guia pode ser adaptado conforme necessário, mas ele já cobre o básico para que qualquer pessoa possa contribuir de forma simples e organizada. Se quiser, você pode adicionar exemplos de código ou links para documentação específica do seu projeto. 😊
