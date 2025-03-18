@@ -18,7 +18,7 @@ Por mais que eu não concorde, consigo entender as pessoas que não estavam prep
 
 O JAMANJO nasceu então da vontade de criar algo mais normal, mais natural e 'lugar comum' para todas as pessoas. Ahhh, claro que a ideia do nome/identidade veio enquanto eu tava assistindo um filme aí...
 
-[![Descrição da imagem](./public/img/jamanjo.svg)](https://www.jamanjo.com.br)
+[![Descrição da imagem](/public/img/Jamanjo.svg)](https://www.jamanjo.com.br)
 <!-- <a href="https://www.jamanjo.com.br">
   <img src="./public/img/Jamanjo.svg" alt="Descrição da imagem" width="200" height="auto" style="border: 1px solid #000;" />
 </a> -->

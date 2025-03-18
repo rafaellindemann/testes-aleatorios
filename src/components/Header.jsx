@@ -98,6 +98,7 @@ function Header() {
           >
             <img
               src="./img/JAMANJO-2-23-2025.png"
+              // src="./img/Jamanjo-placa-logo.png"
               alt="logo progHub"
               style={{ height: "40px" }}
             />
