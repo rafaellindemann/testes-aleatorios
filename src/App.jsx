@@ -14,7 +14,7 @@ const theme = createTheme({
     secondary: {
       main: '#8B4513', 
     },
-    // Você pode adicionar mais cores personalizadas
+    // aqui pode colocar mais cores personalizadas
     success: {
       main: '#4caf50',
     },
